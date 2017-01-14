@@ -1,5 +1,4 @@
 #lz-slider
-@(jQuery-plugin)[lzmoop, slider, jQuery, plugin]
 
 **lz-slider**是一款基于jQuery库开发的轮播图插件，方便开发者快速完成针对页面轮播效果的开发，主要针对多图轮播。
 
@@ -11,8 +10,6 @@
 **轮播机制为对图片盒子的滚动操作，单张操作推荐使用[lz-banner](https://github.com/TCJ-ZJ/lz-banner)**
 
 ------
-
-[TOC]
 
 ##调用说明
 ###引入文件
